@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Direct Connect 动手实验"
 chapter: false
 weight: 10
 tags:
@@ -7,12 +7,12 @@ tags:
 ---
 
 
-Direct Connect 部分动手实验包含以下部分：
+Direct Connect 动手实验包含以下部分：
 
 1. 准备实验环境
-2. Direct Connect 基础网络环境配置
-3. Direct Connect 高可用 - DX Dual Customer Gateway
-4. Direct Connect 高可用 - DX 与 IPSec VPN
+2. DX 基础网络环境部署
+3. DX 高可用
+4. DX 与 IPSec VPN 备份
 5. Traffic Engineering （可选）
 
 {{% notice info %}}

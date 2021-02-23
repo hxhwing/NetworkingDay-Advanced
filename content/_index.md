@@ -4,7 +4,7 @@ chapter: false
 weight: 1
 ---
 
-<div style="text-align: center"><h2>AWS Networking Day - Advanced</h2></div>
+# AWS Networking Day - Advanced
 
 AWS Networking Day - Advanced 主要是针对已经对 AWS Networking 非常熟悉且需要构造复杂网络解决方案的用户。
 本次训练营分为两部分：
