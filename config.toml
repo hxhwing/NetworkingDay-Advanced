@@ -1,8 +1,8 @@
-baseURL = "http://gotoaws.cloudguru.run/"
+baseURL = "https://networkingday.awsguru.top/"
 ignoreFiles = [ "\\.files/README.md$",  ]
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Security Practice on AWS workshop"
+title = "Networking Day Advanced on AWS workshop"
 theme = "hugo-theme-learn"
 uglyurls = false
 sectionPagesMenu = "main"
@@ -15,8 +15,8 @@ relativeURLs = true
   editURL = "https://github.com/sun-biao/secworkshop/edit/master/content/"
   themeVariant = "mine"
   showVisitedLinks = false
-  author = "AWS FSI DNB<sijie@amazon.com>"
-  description = "��δӰ�����Ǩ�Ƶ�AWS��"
+  author = "AWS Networking TFC<hxh@amazon.com>"
+  description = "AWS Networking"
   disableSearch = false
   disableAssetsBusting = false
   disableShortcutsTitle = true
@@ -25,17 +25,17 @@ relativeURLs = true
   pygmentsCodeFences = true
   pygmentsCodefencesGuessSyntax = true
   pygmentsStyle = "tango"
-  codeRepoName = "sun-biao/secworkshop"
+  codeRepoName = "hxhwing/NetworkingDay-Advanced"
 
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-github'></i> GitHub Project"
-url = "https://github.com/sun-biao/secworkshop"
+url = "https://github.com/hxhwing/NetworkingDay-Advanced"
 weight = 30
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-envelope'></i> Have questions?"
-url = "https://github.com/sun-biao/secworkshop/issues"
+url = "https://github.com/hxhwing/NetworkingDay-Advanced/issues"
 weight = 40
 
 [outputs]
