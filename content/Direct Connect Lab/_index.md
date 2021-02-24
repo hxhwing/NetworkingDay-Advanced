@@ -9,11 +9,11 @@ tags:
 
 Direct Connect 动手实验包含以下部分：
 
-1. 准备实验环境
-2. DX 基础网络环境部署
-3. DX 高可用
-4. DX 与 IPSec VPN 备份
-5. Traffic Engineering （可选）
+0. 准备实验环境
+1. DX 基础网络环境部署
+2. DX 高可用
+3. DX 与 IPSec VPN 备份
+4. Traffic Engineering （可选）
 
 {{% notice info %}}
 实验环境位于 ap-northeast-1 东京区域， 要完成 Direct Connect 部分的实验，大约需要 1.5 小时。
